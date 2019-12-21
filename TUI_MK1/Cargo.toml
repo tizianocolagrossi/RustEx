@@ -1,5 +1,5 @@
 [package]
-name = "TUI_MK1"
+name = "tui_mk1"
 version = "0.1.0"
 authors = ["eurus <tiziano.colagrossi@gmail.com>"]
 edition = "2018"
